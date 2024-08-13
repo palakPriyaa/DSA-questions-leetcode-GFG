@@ -30,8 +30,17 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0040-combination-sum-ii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0040-combination-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
+## Sorting
+|  |
+| ------- |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 <!---LeetCode Topics End-->
