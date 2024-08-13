@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
+## Array
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0040-combination-sum-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
