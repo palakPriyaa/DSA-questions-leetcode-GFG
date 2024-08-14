@@ -13,6 +13,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -31,6 +32,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0040-combination-sum-ii) |
 | [0312-burst-balloons](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0312-burst-balloons) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Backtracking
 |  |
@@ -45,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## String
 |  |
@@ -57,5 +60,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
