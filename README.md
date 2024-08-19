@@ -48,6 +48,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0132-palindrome-partitioning-ii) |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0312-burst-balloons) |
+| [0650-2-keys-keyboard](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0650-2-keys-keyboard) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Sorting
@@ -81,4 +82,5 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
