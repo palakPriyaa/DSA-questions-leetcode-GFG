@@ -36,6 +36,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0890-lemonade-change) |
+| [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Backtracking
@@ -49,6 +50,7 @@
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0312-burst-balloons) |
 | [0650-2-keys-keyboard](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Sorting
@@ -83,4 +85,13 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
