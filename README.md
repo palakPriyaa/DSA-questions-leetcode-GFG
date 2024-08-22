@@ -67,6 +67,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0476-number-complement) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
