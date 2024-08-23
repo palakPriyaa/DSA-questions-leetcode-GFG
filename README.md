@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0132-palindrome-partitioning-ii) |
+| [0592-fraction-addition-and-subtraction](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0664-strange-printer) |
 ## Linked List
 |  |
@@ -95,6 +96,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
+| [0592-fraction-addition-and-subtraction](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
 ## Prefix Sum
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
