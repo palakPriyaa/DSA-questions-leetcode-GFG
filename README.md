@@ -98,6 +98,7 @@
 | [0141-linked-list-cycle](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Math
 |  |
 | ------- |
@@ -137,10 +138,12 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -153,6 +156,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
