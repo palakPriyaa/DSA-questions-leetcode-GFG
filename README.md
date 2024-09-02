@@ -17,6 +17,7 @@
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0592-fraction-addition-and-subtraction) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Stack
 |  |
