@@ -42,6 +42,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -103,6 +104,7 @@
 | [0141-linked-list-cycle](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
+| [0906-walking-robot-simulation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Math
 |  |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
