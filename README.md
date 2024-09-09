@@ -51,6 +51,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -88,6 +89,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -146,6 +148,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
 ## Stack
 |  |
 | ------- |
@@ -183,4 +186,5 @@
 | ------- |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
