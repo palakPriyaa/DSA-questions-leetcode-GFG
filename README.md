@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0476-number-complement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
