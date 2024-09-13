@@ -8,6 +8,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -170,6 +173,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1484-linked-list-in-binary-tree](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
