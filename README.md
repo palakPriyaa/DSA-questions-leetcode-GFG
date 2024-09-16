@@ -41,6 +41,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0040-combination-sum-ii) |
 | [0312-burst-balloons](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0312-burst-balloons) |
+| [0539-minimum-time-difference](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0890-lemonade-change) |
@@ -75,12 +76,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## String
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0132-palindrome-partitioning-ii) |
+| [0539-minimum-time-difference](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0664-strange-printer) |
@@ -127,6 +130,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
+| [0539-minimum-time-difference](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0650-2-keys-keyboard) |
