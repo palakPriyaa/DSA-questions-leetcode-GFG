@@ -58,6 +58,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
+| [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -75,6 +76,7 @@
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -133,6 +136,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -250,4 +254,5 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
