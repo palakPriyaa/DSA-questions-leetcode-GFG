@@ -15,6 +15,7 @@
 | [0729-my-calendar-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
@@ -113,6 +115,7 @@
 | [0141-linked-list-cycle](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0237-delete-node-in-a-linked-list) |
+| [0859-design-circular-deque](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
@@ -272,4 +275,8 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
