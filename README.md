@@ -61,6 +61,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -109,6 +110,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
 ## Linked List
@@ -132,6 +134,7 @@
 | [0567-permutation-in-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
+| [1923-sentence-similarity-iii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1923-sentence-similarity-iii) |
 ## Greedy
 |  |
 | ------- |
