@@ -47,6 +47,7 @@
 | [0040-combination-sum-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0040-combination-sum-ii) |
 | [0130-surrounded-regions](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0312-burst-balloons](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0312-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
@@ -252,6 +255,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
@@ -259,6 +263,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
