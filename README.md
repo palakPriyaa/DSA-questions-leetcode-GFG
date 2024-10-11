@@ -48,6 +48,7 @@
 | [0179-largest-number](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0179-largest-number) |
 | [0312-burst-balloons](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0312-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0729-my-calendar-i) |
@@ -82,6 +83,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0312-burst-balloons) |
+| [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
@@ -237,6 +239,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 ## Union Find
@@ -247,6 +250,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
