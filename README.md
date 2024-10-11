@@ -58,6 +58,7 @@
 | [0859-design-circular-deque](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0906-walking-robot-simulation) |
+| [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
@@ -225,6 +226,7 @@
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 ## Graph
@@ -244,12 +246,14 @@
 | [0130-surrounded-regions](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
@@ -257,6 +261,7 @@
 | [0130-surrounded-regions](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
