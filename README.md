@@ -62,6 +62,7 @@
 | [0859-design-circular-deque](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0906-walking-robot-simulation) |
+| [1036-rotting-oranges](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
@@ -272,6 +273,7 @@
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1036-rotting-oranges](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1753-path-with-minimum-effort) |
@@ -294,6 +296,7 @@
 | [0200-number-of-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1753-path-with-minimum-effort) |
