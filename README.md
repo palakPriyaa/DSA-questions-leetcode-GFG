@@ -88,6 +88,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0070-climbing-stairs) |
 | [0132-palindrome-partitioning-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0132-palindrome-partitioning-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0539-minimum-time-difference) |
@@ -318,6 +320,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
