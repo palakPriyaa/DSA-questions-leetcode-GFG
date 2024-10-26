@@ -4,22 +4,26 @@ public:
       if(i == p.size())
       return 0;
 
-      if(dp[i][buy] != -1)
-      return dp[i][buy];
-      int select = 0 , notselect = 0;
-      if(buy == 1){
-         select = -p[i] + solve(p , i+1 , dp , 0);
-        notselect = 0 + solve(p ,  i+1 , dp, 1);
+     if(dp[i][buy] != -1)
+     return dp[i][buy];
 
-        
-      }
 
-      else{
-         select = p[i] + solve(p , i+1 ,dp , 1);
-         notselect = 0 + solve(p ,  i+1 , dp, 0);
-   
-      }
-      return dp[i][buy] = max(select , notselect);
+     int select = 0  , nonselect = 0 ;
+
+     if(buy == 1){
+       select = -p[i] + solve(p , i+1 , dp , 0);
+       nonselect = 0+ solve(p , i+1 , dp , 1);
+
+     }
+     else{
+
+        select = p[i] + solve(p , i+1 , dp , 1);
+        nonselect = 0 + solve(p , i+1 , dp , 0);
+
+
+     }
+
+     return dp[i][buy] = max(select , nonselect);
     }
     int maxProfit(vector<int>& p) {
         long n = p.size();
