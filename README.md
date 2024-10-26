@@ -54,6 +54,7 @@
 | [0312-burst-balloons](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0664-strange-printer) |
