@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0040-combination-sum-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0200-number-of-islands) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0070-climbing-stairs) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0132-palindrome-partitioning-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
@@ -161,6 +163,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
