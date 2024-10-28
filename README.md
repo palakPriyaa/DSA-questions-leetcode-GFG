@@ -73,6 +73,7 @@
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1753-path-with-minimum-effort) |
@@ -108,6 +109,7 @@
 | [0664-strange-printer](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0664-strange-printer) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2586-longest-square-streak-in-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
@@ -322,6 +324,7 @@
 | [1036-rotting-oranges](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
