@@ -112,6 +112,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2586-longest-square-streak-in-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
 ## Sorting
@@ -277,12 +278,14 @@
 | [0820-find-eventual-safe-states](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2803-modify-graph-edge-weights) |
 ## Breadth-First Search
 |  |
@@ -384,4 +387,5 @@
 | [0207-course-schedule](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
