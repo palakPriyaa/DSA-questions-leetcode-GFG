@@ -47,7 +47,7 @@ public:
         };
          
 
-         //step 1 - 
+         //step 1 - creating a mapping of a no(name) with emails and if email already exists in the map attach to previous one
 
          int n = accounts.size();
         Disjointset ds(n);
@@ -57,14 +57,16 @@ public:
             for (int j = 1; j < accounts[i].size(); j++) {
                 string mail = accounts[i][j];
                 if (mapMailNode.find(mail) == mapMailNode.end()) {
-                    mapMailNode[mail] = i;
+                    mapMailNode[mail] = i;     //if map doesnt have initiliase a new one
                 }
                 else {
-                    ds.unionbyrank(i, mapMailNode[mail]);
+                    ds.unionbyrank(i, mapMailNode[mail]);   //if already present attach to existing one
                 }
             }
         }
+  
 
+          //step 2 - connecting to the ultimate parent
          vector<string> mergedMail[n];
         for (auto it : mapMailNode) {
             string mail = it.first;
@@ -72,10 +74,13 @@ public:
             mergedMail[node].push_back(mail);
         }
 
+
+         //step 3 
         vector<vector<string>> ans;
 
         for (int i = 0; i < n; i++) {
-            if (mergedMail[i].size() == 0) continue;
+            if (mergedMail[i].size() == 0) continue;     //if empty continue
+
             sort(mergedMail[i].begin(), mergedMail[i].end());
             vector<string> temp;
             temp.push_back(accounts[i][0]);
