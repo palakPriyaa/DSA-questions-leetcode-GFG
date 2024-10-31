@@ -61,6 +61,7 @@
 | [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
@@ -123,6 +124,7 @@
 | [0455-assign-cookies](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2586-longest-square-streak-in-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
@@ -138,6 +140,7 @@
 | [0567-permutation-in-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0664-strange-printer) |
+| [0721-accounts-merge](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -183,6 +186,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0906-walking-robot-simulation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -258,6 +262,7 @@
 | [0210-course-schedule-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0801-is-graph-bipartite) |
@@ -302,6 +307,7 @@
 | [0322-coin-change](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -318,6 +324,7 @@
 | [0130-surrounded-regions](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1073-number-of-enclaves) |
