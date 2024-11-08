@@ -141,6 +141,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0664-strange-printer) |
 | [0721-accounts-merge](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -370,6 +371,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
