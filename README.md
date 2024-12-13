@@ -39,6 +39,7 @@
 | [1325-path-with-maximum-probability](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2164-two-best-non-overlapping-events](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Tree
 |  |
@@ -94,6 +95,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [2586-longest-square-streak-in-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3427-special-array-ii) |
@@ -139,6 +141,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2164-two-best-non-overlapping-events](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## String
 |  |
@@ -211,6 +214,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -264,6 +268,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
