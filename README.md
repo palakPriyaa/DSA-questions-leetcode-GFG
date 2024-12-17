@@ -39,6 +39,7 @@
 | [1325-path-with-maximum-probability](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2164-two-best-non-overlapping-events](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
+| [2300-construct-string-with-repeat-limit](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2803-modify-graph-edge-weights) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -165,6 +166,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2300-construct-string-with-repeat-limit](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -201,6 +203,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0890-lemonade-change) |
 | [2089-maximum-matrix-sum](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2089-maximum-matrix-sum) |
+| [2300-construct-string-with-repeat-limit](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +218,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2300-construct-string-with-repeat-limit](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2586-longest-square-streak-in-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
@@ -384,6 +388,7 @@
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2300-construct-string-with-repeat-limit](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Memoization
 |  |
