@@ -84,6 +84,7 @@
 | [1325-path-with-maximum-probability](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1325-path-with-maximum-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -283,6 +284,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
 |  |
@@ -440,4 +442,8 @@
 | [0210-course-schedule-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
