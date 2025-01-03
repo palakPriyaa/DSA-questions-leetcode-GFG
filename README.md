@@ -100,6 +100,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2155-find-missing-observations) |
 | [2164-two-best-non-overlapping-events](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
+| [2358-number-of-ways-to-split-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [2586-longest-square-streak-in-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -257,6 +258,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3427-special-array-ii) |
 ## Game Theory
