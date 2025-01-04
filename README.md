@@ -174,6 +174,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1923-sentence-similarity-iii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2300-construct-string-with-repeat-limit](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2580-circular-sentence) |
@@ -228,6 +229,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2586-longest-square-streak-in-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -258,6 +260,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3427-special-array-ii) |
@@ -272,6 +275,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
