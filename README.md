@@ -102,6 +102,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2358-number-of-ways-to-split-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2465-shifting-letters-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -177,6 +178,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2300-construct-string-with-repeat-limit](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
+| [2465-shifting-letters-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
@@ -262,6 +264,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3427-special-array-ii) |
 ## Game Theory
