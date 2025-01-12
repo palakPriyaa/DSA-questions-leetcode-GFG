@@ -179,6 +179,7 @@
 | [1923-sentence-similarity-iii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2465-shifting-letters-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2580-circular-sentence) |
@@ -220,6 +221,7 @@
 | [0890-lemonade-change](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2089-maximum-matrix-sum) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 ## Hash Table
 |  |
@@ -309,6 +311,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Depth-First Search
