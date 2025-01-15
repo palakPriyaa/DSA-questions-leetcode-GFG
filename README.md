@@ -227,6 +227,7 @@
 | [2089-maximum-matrix-sum](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2509-minimize-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2509-minimize-xor](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Recursion
 |  |
