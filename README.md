@@ -60,6 +60,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0040-combination-sum-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0130-surrounded-regions) |
@@ -206,6 +207,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0455-assign-cookies) |
