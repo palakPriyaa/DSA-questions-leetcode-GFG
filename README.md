@@ -104,6 +104,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2586-longest-square-streak-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -295,6 +296,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Recursion
 |  |
@@ -497,4 +499,8 @@
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
