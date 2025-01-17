@@ -110,6 +110,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2792-neighboring-bitwise-xor) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -298,6 +299,7 @@
 | [2509-minimize-xor](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2792-neighboring-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
