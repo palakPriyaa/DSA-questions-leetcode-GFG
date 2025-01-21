@@ -101,6 +101,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2155-find-missing-observations) |
 | [2164-two-best-non-overlapping-events](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2358-number-of-ways-to-split-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2358-number-of-ways-to-split-array) |
@@ -283,6 +284,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -431,6 +433,7 @@
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 ## Number Theory
