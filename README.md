@@ -355,6 +355,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2035-count-sub-islands) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
@@ -371,6 +372,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2803-modify-graph-edge-weights](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -504,6 +506,7 @@
 | [0210-course-schedule-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Monotonic Stack
 |  |
 | ------- |
