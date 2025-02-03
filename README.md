@@ -118,6 +118,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
