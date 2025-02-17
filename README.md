@@ -130,6 +130,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1160-letter-tile-possibilities) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0721-accounts-merge](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1502-construct-k-palindrome-strings) |
@@ -249,6 +251,7 @@
 | [0906-walking-robot-simulation](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1160-letter-tile-possibilities](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1502-construct-k-palindrome-strings) |
@@ -457,6 +460,7 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
