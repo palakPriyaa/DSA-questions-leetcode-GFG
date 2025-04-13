@@ -280,6 +280,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/1240-stone-game-ii) |
+| [2050-count-good-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -321,6 +322,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
+| [2050-count-good-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2050-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
