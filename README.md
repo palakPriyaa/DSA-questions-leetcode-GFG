@@ -285,6 +285,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -317,12 +318,14 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2792-neighboring-bitwise-xor) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [2050-count-good-numbers](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -336,6 +339,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/palakPriyaa/DSA-questions-leetcode-GFG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
